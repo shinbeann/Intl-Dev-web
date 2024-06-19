@@ -58,22 +58,19 @@ main {
   background: #f1f1f1;
 }
 
-.innersidebar a {
+.main h2 {
   font-size: 0.9em;
   margin: 0.2px 0;
-}
-
-#overview, #introduction, #whybri {
   background: #002240;
-  font-size: 15px;
+  font-size: 20px;
   padding: 10px 15px;
   color: #f1f1f1;
   margin: 15px 0;
 }
 
-#qualityscandal {
+#westernpoliticalmotives, #usvsbri, #westernleadersmotives {
   background: #273173;
-  font-size: 15px;
+  font-size: 20px;
   padding: 10px 15px;
   color: #f1f1f1;
   margin: 5px 0;
@@ -81,6 +78,7 @@ main {
 
 p {
   padding-left: 20px;
+  font-size: 20px;
 }
 
 footer {
