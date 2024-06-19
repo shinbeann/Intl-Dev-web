@@ -4,12 +4,10 @@
 // });
 
 var converter = new showdown.Converter()
-// const text = '# hello, markdown!'
-// const html = converter.makeHtml(text);
 
 function load() {
   var file = new XMLHttpRequest();
-  file.open("GET", "CocaSinclair.md", true);
+  file.open("GET", "essay/CocaSinclair.md", true);
   file.onreadystatechange = function() {
     if (file.readyState === 4) {  // Makes sure the document is ready to parse
     if (file.status === 200) {  // Makes sure it's found the file
@@ -25,8 +23,8 @@ function load() {
 window.onload = load();
 
 $(function(){
-  $("#header-placeholder").load("header.html");
-  $("#footer-placeholder").load("footer.html");
+  $("#header-placeholder").load("segments/header.html");
+  $("#footer-placeholder").load("segments/footer.html");
 });
 
 
