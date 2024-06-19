@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
     <link rel="stylesheet" href="home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="app.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
+    <script src="app.js"></script>  
 </head>
 
 <body>
     <div id="header-placeholder"></div>
+
+    <div id="showdown"></div>
 
     <main>
         <section class="hero">
@@ -20,11 +24,12 @@
 
             <div class="section0">
                 <hr>
-                <p id="credits">Written by: Yi Reng, Ethan, Hyu Seong, M AYESHA, and Shin Lee</p>
+                <p id="credits">Written by: Yih Reng, Ethan, Hyu Seong, M AYESHA, and Shin Lee</p>
                 <hr>
-            </div>    
-            <div class="section1">
-                <p style="text-align: left;">Tucked away in the Napo Province of Ecuador's Amazon rainforest, 
+            </div>
+
+            <div class="section1" id="section1">
+                <!-- <p style="text-align: left;">Tucked away in the Napo Province of Ecuador's Amazon rainforest, 
                     the Coca Codo Sinclair Hydropower Project (CCSHP) stands as a grand 
                     symbol of ambition and, unfortunately, controversy. What was once 
                     predicted to be a triumphant testament to China’s Belt and Road Initiative 
@@ -71,7 +76,7 @@
                     social, and environmental assessments from the project's outset has hampered plant construction
                     and operation,  leading to multiple construction scandals, permanent environmental harm 
                     and social conflicts in the river basin.
-                </p>
+                </p> -->
             </div>
             <div class="section2">
                 <h2>Quality Scandal</h2>
@@ -157,10 +162,8 @@
             </div>    
         </section>
     </main>
-</body>
 
-<footer>
-    <p>&copy; 2024 My Website</p>
-</footer>
+    <div id="footer-placeholder"></div>
+</body>
 
 </html>
