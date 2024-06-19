@@ -1,6 +1,10 @@
-const button = document. querySelector('button');
-button. addEventListener('click', function() {
-console. log('Button was clicked');
+// const button = document. querySelector('button');
+// button. addEventListener('click', function() {
+// console. log('Button was clicked');
+// });
+
+$(function(){
+  $("#header-placeholder").load("header.html");
 });
 
 function load() {
