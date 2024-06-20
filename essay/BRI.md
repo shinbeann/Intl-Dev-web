@@ -48,11 +48,15 @@ The BRI also has demonstrated a willingness to fund projects that the Western-do
 
 ## Sources for this section
 
-About the IDB. (n.d.). IDB. https://www.iadb.org/en/who-we-are/about-idb
-Doyle, N. J., & Sebesta, L. (2014). Regional integration and modernity: Cross-Atlantic Perspectives. Lexington Books.
-Leahy, J., Kynge, J., & Parkin, B. (2023, October 22). Ten years of China’s Belt and Road: what has $1tn achieved? Financial Times. https://www.ft.com/content/83501dd5-fe6d-4169-9d83-28a8cf46e681
-Piccone, T. (2016). The Geopolitics of China’s Rise in Latin America. Geoeconomics and Global Issues.
-Srinivasu, B., & Srinivasa Rao, P. (2013). Infrastructure Development and Economic growth: Prospects and Perspective. Journal of Business Management & Social Sciences Research, 2(1).
+* About the IDB. (n.d.). IDB. https://www.iadb.org/en/who-we-are/about-idb  
+
+* Doyle, N. J., & Sebesta, L. (2014). Regional integration and modernity: Cross-Atlantic Perspectives. Lexington Books.  
+
+* Leahy, J., Kynge, J., & Parkin, B. (2023, October 22). Ten years of China’s Belt and Road: what has $1tn achieved? Financial Times. https://www.ft.com/content/83501dd5-fe6d-4169-9d83-28a8cf46e681  
+
+* Piccone, T. (2016). The Geopolitics of China’s Rise in Latin America. Geoeconomics and Global Issues.  
+
+* Srinivasu, B., & Srinivasa Rao, P. (2013). Infrastructure Development and Economic growth: Prospects and Perspective. Journal of Business Management & Social Sciences Research, 2(1).
 
 ---
 

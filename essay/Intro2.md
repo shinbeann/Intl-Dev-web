@@ -4,6 +4,16 @@ Following its launch in November 2019, the plant has been surrounded by internat
 
 Before the launch, the project also suffered from multiple technical difficulties. In December 2014, 25 workers stood on a temporary platform when an avalanche of water and construction material burst through the pipe. The platform gave way and fell, killing 13 people (13 Ecuadorians and 3 Chinese) and injuring another 12 (Times, n.d.). In 2018, three of the eight-generation units were not operational due to significant disconnections in the system. Furthermore, multiple Ecuadorian cities experienced power outages due to transmission line outages, and the shortfall in electricity had to be made up for by two other dams (Minas San Francisco and Delsitanisagua).  
 
+<figure>
+    <img src="media/damStructure.png"/>
+    <figcaption>The structure of the CCSHP. (Teräväinen, 2019)</figcaption>
+</figure>
+
+<figure>
+    <img src="media/crackedDam.png"/>
+    <figcaption>Photo of cracks in a pipe posted on Twitter by journalist Hernán Higuera.</figcaption>
+</figure>
+
 ## Environmental Degradation
 
 Moreover, the CCSHP has brought about numerous environmental threats, such as heavy erosion events, changes in ecological water flows, and the drying up of Ecuador’s famous San Rafael waterfall. Environmental specialists and geologists warned that the project’s over-dimensions and lack of comprehensive accountability for the surrounding environment would severely impact the local ecosystem. Critics raised concerns about the project’s ability to deliver the promised energy production, especially since the river has a lower flow rate than anticipated, coupled with sedimentation and seismic risks. The project is also faulted for impacting the last intact roadless zone in the Tropical Andes and the UNESCO Sumaco Biosphere Reserve. Due to the project's construction, new roads and transport infrastructure will require the further deforestation of surrounding land, leading to further environmental degradation. In February 2020, the collapse of the San Rafael Waterfall was attributed to accelerated regressive erosion in the Coca River, which inadvertently altered the behaviour of the natural dynamics of the Coca River (Hoffner, 2020). Coupled with increasingly intense and expansive anthropogenic activities in the region, the regressive erosion escalated, leading to the unfortunate loss of roads, bridges, housing complexes and infrastructure in strategic sectors (Ecuador’s most spectacular waterfall threatened by Chinese-funded Hydroelectric Project, n.d.).  

@@ -8,4 +8,5 @@ Despite the potential benefits of the CCSHP dam in boosting electricity supply, 
 
 <figure>
     <img src="media/sinclair.png" style="max-width:60%;"/>
+    <figcaption>Coca Codo Sinclair Hydropower Project in Amazon Rainforest. (Singleton, 2024)</figcaption>
 </figure>
