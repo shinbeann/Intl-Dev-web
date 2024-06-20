@@ -53,3 +53,40 @@ Doyle, N. J., & Sebesta, L. (2014). Regional integration and modernity: Cross-At
 Leahy, J., Kynge, J., & Parkin, B. (2023, October 22). Ten years of China’s Belt and Road: what has $1tn achieved? Financial Times. https://www.ft.com/content/83501dd5-fe6d-4169-9d83-28a8cf46e681
 Piccone, T. (2016). The Geopolitics of China’s Rise in Latin America. Geoeconomics and Global Issues.
 Srinivasu, B., & Srinivasa Rao, P. (2013). Infrastructure Development and Economic growth: Prospects and Perspective. Journal of Business Management & Social Sciences Research, 2(1).
+
+---
+
+# Evaluating Criticisms of the BRI
+
+As mentioned previously, the BRI's main objectives were to improve global trade and stimulate economic growth. The following section will explore whether some of these allegations were true. 
+growth by building infrastructure and expanding trade links between Asia, Africa and Europe. However, China’s BRI faced much criticism from Western countries, including allegations of debt-trap diplomacy, lack of transparency, environmental concerns and geopolitical motives.  
+
+## Debt-trap Diplomacy
+
+Debt trap diplomacy describes a situation in which a powerful country, such as China, extends extensive credit to a borrowing nation, usually for infrastructure or development projects, intending to trap the country in debt. Are Western countries' allegations that China used debt trap diplomacy to further its national interests true?  
+
+**True:**   
+Through BRI, China could own and control key logistics hubs crucial to the global community. China was criticised for intentionally lending more than the borrower can repay. In the case of Ecuador, China distributed approximately $138 billion in loans to the region, including Brazil and Venezuela (Person, 2023). Ecuador became dependent on China’s loans, with USD$3.8 billion used for financial needs. Considering how Ecuador still owed China all it had borrowed, Ecuador committed to delivering 1325 barrels of oil by 2024 to China, which was 5 times more than what was initially required to cover the debt (Person, 2023). This is a clear example of China’s debt trap diplomacy, with China gaining a strategic foothold in getting the resources it needs from Ecuador. Through this example, we can analyse how China put on a facade of wanting to help other countries out but used their weak economies and limited bargaining power to seize strategic assets.  
+
+**Not True:**   
+It is arguable that labelling BRI as a 'debt trap' is not based on factual evidence and is an exaggerated claim. This is primarily because many countries are already burdened with escalating debt, and their indebtedness to China constitutes only a minor portion of their overall liabilities (Hong, 2023). For instance, Pakistan grappled with substantial external debt and fiscal deficits before engaging in the China-Pakistan Economic Corridor (CPEC). Despite its high debt levels, Pakistan chose to participate in the CPEC, a prominent BRI undertaking comprising numerous infrastructure and energy projects. The main aim of CPEC was to improve the connectivity between Pakistan’s Gwadar Port and the Xinjiang region in China. Pakistan deemed it necessary for CPEC to allow for long-term development that would help ease its economic burden (Lindley 2022). Furthermore, Western nations cannot accuse China of trapping debt, considering that most countries are well aware of the financial implications of participating in the BRI, as demonstrated by Pakistan's case. These countries can accept or decline loans from China; therefore, condemning China for purported debt trapping is unjust.  
+
+Is it truly justifiable for Western nations to criticise China for engaging in debt trapping? Upon closer examination, it becomes evident that Western nations have been deeply entrenched in neocolonialism for an extensive period. The West has been the major hindrance to the economic development of multiple African countries. A compelling illustration is the case of Ethiopia’s Arabica coffee, which farmers sell for as little as $4 per kilogram. Still, large coffee corporations earn about $200 per kilogram, allowing them to earn millions (Cherneva, 2020). Thus, by using slave labour, Western countries can develop themselves economically. This renders them hypocritical for disparaging China for purported debt trapping when they effectively pursue similar objectives.  
+
+## Environmental Concerns  
+
+Western countries also accused BRI Projects of frequently bypassing environmental regulations.  
+
+**True:**  
+China was prioritising economic developments over environmental concerns. Despite agreeing to make BRI more sustainable by reducing emissions and protecting diversity, China was seen to be doing the opposite. For example, Ecuador is a country that takes climate change very seriously, with 98.6% of its population concerned. China, however, ranks last on this list, with only 36.1% of the population concerned about climate change (McSweeney, 2016). This indifferent attitude from China can be observed when Ecuador pleaded with six banks in China to reconsider their financing for mining projects (such as the Mirador project) in Ecuador, only to be met with silence (Hill, 2020). This proves that China did not intend to make BRI a more green plan as its economic growth was more aligned with its national interests. However, with environmental concerns more aligned with global interests, what China is doing allows the allegations by Western countries to remain true.  
+
+<figure>
+    <img src="media/climate.png" style="max-width:60%;"/>
+</figure>
+
+**Not True:**  
+China tried to shift its BRI practices to be more environmentally friendly. There was a greater use of renewable energy, equivalent to 750 million tonnes of standard coal. This allowed carbon dioxide emissions to be reduced by 2.1 billion tonnes (Khalid, 2023). With figures as large as the ones mentioned, it is impossible to say that China did not care about environmental concerns. On top of shifting to renewable energy, China is recognised as a global leader in producing electric vehicles, solar panels and wind turbines (Khalid, 2023). Thus, although China could do more to make BRI green, it would be unfair to say there was no effort.  
+
+Similar to the debt-trap diplomacy, the allegations from the Western countries may not be valid. Many Western countries still have a high per capita carbon footprint and contribute significantly to global pollution. According to the European Environment Agency (EEA), air pollution is a significant problem in Europe with detrimental effects, with approximately 48,000 deaths in France yearly (Igini, 2024). Additionally, in Europe alone, about 26 million tonnes of plastic waste is produced yearly (Igini, 2024). These are just two issues out of the many. Thus, with such negative consequences as the ones mentioned, it is ironic for Western countries to accuse China of not caring about the environment.  
+
+In conclusion, the West saw multiple aspects of the BRI in a negative light. However, whether or not these accusations were valid to be pointed out by these countries is an entirely different story.  

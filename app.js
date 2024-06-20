@@ -24,6 +24,7 @@ function load() {
   loadMD("essay/Intro1.md", "#index1");
   loadMD("essay/Intro2.md", "#index2");
   loadMD("essay/BRI.md", "#bri");
+  loadMD("essay/Criticism.md", "#criticism");
 }
 
 window.onload = load();
