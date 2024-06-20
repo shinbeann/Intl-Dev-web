@@ -1,0 +1,53 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: "Lato";
+}
+
+header {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    font-size: 1.5em;
+  }
+
+  header a {
+    text-decoration: none;
+    color: black;
+    margin-right: 80px;
+    
+  }
+
+
+.hero img{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: "BRI.jpg" no-repeat center top;
+    background-size: cover;
+    width: 100%;
+}
+
+.section0 p{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    flex-shrink: 0;
+    width: 100%;
+}
+
+footer p {
+  text-align: center;
+}
+
