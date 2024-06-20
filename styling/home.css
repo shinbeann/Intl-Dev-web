@@ -8,53 +8,52 @@ html, body {
   overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
-  header {
-    background-color: #f1f1f1;
-    padding-left: 15px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-shrink: 0;
-    font-size: 1.5em;
-  }
+header {
+  background-color: #f1f1f1;
+  padding-left: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  font-size: 1.5em;
+}
 
-  nav a {
-    margin-right: 20px;
-    text-decoration: none;
-    color: black;
-  }
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+}
   
-  .hero {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    padding: 10px;
-    text-align: left;
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  text-align: left;
 }
 
 .hero img {
     max-width: 100%;
     max-height: 100%;
-    
 }
 
-  hr {
-    width:100%;
-    color: black;
-  }
+hr {
+  width:100%;
+  color: black;
+}
 
-  .section0 {
-    text-align: center;
-  }
+.section0 {
+  text-align: center;
+}
 
-  .section0 p {
-    margin: 0;
-    line-height: 1.2;
-    white-space: nowrap;
-    padding-left: 0%;
-  }
+.section0 p {
+  margin: 0;
+  line-height: 1.2;
+  white-space: nowrap;
+  padding-left: 0%;
+}
 
 .section1 {
   text-align: center;
@@ -65,41 +64,47 @@ html, body {
   opacity: 50%;
 }
 
-  .section2 h2 {
-    text-align: left;
-    padding-left:25%;
-    color: white;
-    opacity: 100%;
-    font-size: 2em;
-
+.section2 h1 {
+  text-align: left;
+  padding-left:25%;
+  color: white;
+  opacity: 100%;
+  font-size: 2.5em;
 }
 
+.section2 h2 {
+  text-align: left;
+  padding-left:25%;
+  color: white;
+  opacity: 100%;
+  font-size: 2em;
+}
 
-  #text {
-    text-align: left;
-    color: gainsboro;
-    padding-left:25%;
-    padding-right: 25%;
-  }
+.section2 p {
+  text-align: left;
+  color: gainsboro;
+  padding-left:25%;
+  padding-right: 25%;
+}
 
-  p {
-    text-align: left;
-    padding-left:25%;
-    padding-right: 25%;
-    font-size: 1.5em;
-  }
+p {
+  text-align: left;
+  padding-left:25%;
+  padding-right: 25%;
+  font-size: 1.5em;
+}
 
 .section3 {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    flex-grow: 1; /* Make it grow to take remaining space */
-    padding: 200px;
-    justify-content: center;
-    align-items: center;
-    text-align: center; /* Center align text */
-    flex-direction: column;
-     display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  flex-grow: 1; /* Make it grow to take remaining space */
+  padding: 200px;
+  justify-content: center;
+  align-items: center;
+  text-align: center; /* Center align text */
+  flex-direction: column;
+    display: flex;
 }
   
 .section3 img {
