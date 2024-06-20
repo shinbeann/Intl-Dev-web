@@ -56,37 +56,37 @@ hr {
   color: red;
 }
 
-  .section1 {
-    text-align: center;
-  }
+.section1 {
+  text-align: center;
+}
 
-  .section2{
-    background-color: #002240;
-    opacity: 50%;
-  }
+.section2{
+  background-color: #002240;
+  opacity: 50%;
+}
 
-  .section2 h2 {
-    text-align: left;
-    padding-left:20%;
-    color: white;
-    opacity: 100%;
-    font-size: 2em;
+.section2 h1, .section2 h2 {
+  text-align: left;
+  padding-left:20%;
+  color: white;
+  opacity: 100%;
+  font-size: 2em;
 
-  }
+}
 
-  #text {
-    text-align: left;
-    padding-left:20%;
-    color: gainsboro;
+.section2 p {
+  text-align: left;
+  padding-left:20%;
+  color: gainsboro;
 
-  }
+}
 
-  p {
-    text-align: left;
-    padding-left:20%;
-    padding-right: 20%;
-    font-size: 1.5em;
-  }
+p {
+  text-align: left;
+  padding-left:20%;
+  padding-right: 20%;
+  font-size: 1.5em;
+}
 
 .section3 {
     position: relative;
@@ -128,12 +128,12 @@ hr {
   margin-top: 20px; /* Space between text and button */
 }
 
-  footer {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-    flex-shrink: 0;
-    width: 100%;
+footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+  flex-shrink: 0;
+  width: 100%;
 }
 
 footer p {
