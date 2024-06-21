@@ -44,6 +44,7 @@ hr {
   color: black;
 }
 
+
 .section0 {
   text-align: center;
 }
@@ -60,8 +61,7 @@ hr {
 }
 
 .section2{
-  background-color: #002240;
-  opacity: 50%;
+  background-color: #7f909f;
 }
 
 .section2 h1 {
@@ -85,6 +85,10 @@ hr {
   color: gainsboro;
   padding-left:25%;
   padding-right: 25%;
+}
+
+.section2 img {
+  align-items: center;
 }
 
 p {
@@ -132,6 +136,28 @@ p {
   border-radius: 5px;
   cursor: pointer;
   margin-top: 20px; /* Space between text and button */
+}
+
+
+#index2 figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#bri figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+#criticism figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
 
 footer {
