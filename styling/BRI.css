@@ -5,20 +5,34 @@ body, html {
 }
 
 header {
-    background-color: #f1f1f1;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-shrink: 0;
-    font-size: 1.5em;
-  }
+  background-color: #f1f1f1;
+  padding-left: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  font-size: 1.5em;
+}
 
-  header a {
-    text-decoration: none;
-    color: black;
-    margin-right: 80px;
-    
-  }
+
+h1 {
+  font-size: 2em;
+}
+
+nav {
+  overflow: hidden;
+}
+
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  float: left;
+}
+
+nav a:hover, .dropdown:hover .dropbtn {
+  background-color: gray;
+}
 
 
 .hero img{
