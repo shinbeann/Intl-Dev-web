@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en" class = "classic-face-lift-skin section-experience" style ="--g-top-bar-height: 89px;">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Content Page</title>
-    <link rel="stylesheet" href="styling/content.css">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styling/home.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
     <script src="app.js"></script>
@@ -12,40 +13,35 @@
 
 <body>
     <div id="header-placeholder"></div>
-        <main>
-            <div class="sidebar">
-                
-                <h2>Geopolitical Hypocrisy of The West</h2>
+
+    <div id="showdown"></div>
+
+    <main>
+        <section class="hero">
+            <figure>
+                <img src="media/main.png" alt="coca codo image" />
+            </figure>
+
+            <div class="section0">
                 <hr>
-                <a href="#overview">Overview</a><br>
-                <a href="#critics">What Western Leaders and Media Criticise the BRI of</a><br>
-                <a href="#westtrackrecord">The West’s Track Record</a><br>
-                <a href="#westernleadersmotives">Western Leaders' Motives</a><br>
-                <a href="#sources">Sources</a><br>
+                <p id="credits">Written by: Ethan Wong Shao Wei, Gay Shin Lee, M Ayesha Shifana, Tan Hyu Seong and Tan Yih Reng</p>
+                <hr>
             </div>
 
-            <div class="container">
-                    <h2 id="overview">Overview</h2>
-                    <div class="section1" id="crit1"></div>
-            
-                    <h2 id="critics">What Western Leaders and Media Criticise the BRI of</h2>
-                    <div class="section2" id="crit2"></div>
+            <div class="section1" id="index1"></div>
+            <div class="section2" id="index2"></div>
 
-                    <h2 id="westtrackrecord">The West’s track record in Ecuador and Latin America</h2>
-                    <div class="section3" id="crit3"></div>
-
-
-                    <h2 id="westernleadersmotives">Western Leaders' Motives</h2>
-                    <div class="section4" id="crit4"></div>
-
-                    <h2 id="sources">Sources</h2>
-                    <div class="section5" id="crit5"></div>
+            <div class = "section3">
+                <h3> The Belt and Road Initiative </h3>
+                    <img src="media/BRI.jpg" alt="BRI"/>
+                <form>
+                    <button formaction="./BRI.html" class="button" type="submit">READ MORE</button>
+                </form>
             </div>
-       
-        </main>
-    
+        </section>
+    </main> 
+
     <div id="footer-placeholder"></div>
-
-
 </body>
+
 </html>
