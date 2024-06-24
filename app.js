@@ -22,11 +22,11 @@ function load() {
   loadMD("essay/Intro2.md", "#index2");
   loadMD("essay/BRI.md", "#bri");
   loadMD("essay/image_credits.md", "#image_credits")
-  loadMD("essay/Crit1.md", "#crit1")
-  loadMD("essay/Crit2.md", "#crit2")
-  loadMD("essay/Crit3.md", "#crit3")
-  loadMD("essay/Crit4.md", "#crit4")
-  loadMD("essay/Crit5.md", "#crit5")
+  loadMD("essay/crit1.md", "#crit1")
+  loadMD("essay/crit2.md", "#crit2")
+  loadMD("essay/crit3.md", "#crit3")
+  loadMD("essay/crit4.md", "#crit4")
+  loadMD("essay/crit5.md", "#crit5")
 }
 
 window.onload = load();
