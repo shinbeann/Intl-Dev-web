@@ -18,8 +18,10 @@ body {
   }
 
   
-  h1 {
-    font-size: 2em;
+  #image_credits {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 20px;
   }
   
   nav a {
@@ -28,15 +30,12 @@ body {
     color: black;
   }
 
-footer {
-  background-color: #f1f1f1;
-  padding: 20px;
-  text-align: center;
-  flex-shrink: 0;
-  width: 100%;
-}
+  footer {
+    text-align: center;
+    padding: 10px;
+    min-height: 50px;
+    background-color: #f1f1f1;
+    flex-shrink: 0;
+  }
 
-footer p {
-  text-align: center;
-}
   
