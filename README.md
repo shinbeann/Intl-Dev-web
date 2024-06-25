@@ -6,6 +6,6 @@ concepts to understand Western criticisms and compare them to historical Western
 
 
 <br/>
-Credits (2024)<br/>
+(2024)<br/>
 Gay Shin Lee<br/>
 Tan Yih Reng 
